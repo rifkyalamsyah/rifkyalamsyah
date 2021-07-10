@@ -2,7 +2,7 @@
 - 👀  I’m interested in full stack web developer & UI/UX Design 
 - 🌱  I’m currently learning Frontend and Backend technologies
 - 📫  How to reach me on Instagram @rifkyyalamsyah | https://www.instagram.com/rifkyyalamsyah
-- 🏀  Dribbble rifkyallamsyah | https://www.instagram.com/rifkyyalamsyah/
+- 🏀  Dribbble rifkyallamsyah | https://dribbble.com/rifkyalamsyah
 - 📩  Email rifkyalamsyah@gmail.com
 
 <!---
