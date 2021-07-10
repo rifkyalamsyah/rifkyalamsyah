@@ -1,9 +1,9 @@
 - 👋  Hi, I’m Rifky Alamsyah
-- 👀  I’m interested in full stack web developer & UI/UX Design 
-- 🌱  I’m currently learning Frontend and Backend technologies
+- 💼  I’m interested in full stack web developer & UI/UX Design 
+- 🎓  I’m currently learning Frontend and Backend technologies
 - 📫  How to reach me on Instagram @rifkyyalamsyah | https://www.instagram.com/rifkyyalamsyah
-- 🏀  Dribbble rifkyallamsyah | https://dribbble.com/rifkyalamsyah
-- 📩  Email rifkyalamsyah@gmail.com
+- 🏀  Dribbble rifkyalamsyah | https://dribbble.com/rifkyalamsyah
+- 📩  Email rifkyalamsyah30@gmail.com
 
 <!---
 rifkyalamsyah/rifkyalamsyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
