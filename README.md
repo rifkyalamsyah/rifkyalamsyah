@@ -2,6 +2,7 @@
 - 👀  I’m interested in full stack web developer & UI/UX Design 
 - 🌱  I’m currently learning Frontend and Backend technologies
 - 📫  How to reach me on Instagram @rifkyyalamsyah
+- 📩  Email rifkyalamsyah@gmail.com
 
 <!---
 rifkyalamsyah/rifkyalamsyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
